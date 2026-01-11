@@ -73,22 +73,22 @@ This configuration creates a **self-testing loop** that verifies the correctness
 
 ## 📊 Resource Utilization
 <p align="center">
-  <img src="Images/1" alt=" Pin diagram" width="800">
+  <img src="Images/1.jpeg" alt=" Pin diagram" width="800">
 </p>
 <p align="center">
-  <img src="Images/2" alt=" Pin diagram" width="800">
+  <img src="Images/2.jpeg" alt=" Pin diagram" width="800">
 </p>
 <p align="center">
-  <img src="Images/3" alt=" Pin diagram" width="800">
+  <img src="Images/3.jpeg" alt=" Pin diagram" width="800">
 </p>
 <p align="center">
-  <img src="Images/4" alt=" Pin diagram" width="800">
+  <img src="Images/4.jpeg" alt=" Pin diagram" width="800">
 </p>
 <p align="center">
-  <img src="Images/5" alt=" Pin diagram" width="800">
+  <img src="Images/5.jpeg" alt=" Pin diagram" width="800">
 </p>
 <p align="center">
-  <img src="Images/6" alt=" Pin diagram" width="800">
+  <img src="Images/6.jpeg" alt=" Pin diagram" width="800">
 </p>
 
 ---
